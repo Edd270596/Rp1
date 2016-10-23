@@ -9,6 +9,8 @@ public:
     virtual void update(int a){};
 };
 
+fdfdfd
+dfdfdf
 class Clock
 {
     static Clock *inst;
